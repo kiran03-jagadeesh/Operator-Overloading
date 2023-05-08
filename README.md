@@ -74,7 +74,7 @@ public static void Main()
 ~~~
 
 ## Output:
-![img 1](https://user-images.githubusercontent.com/94174536/236783028-f614bb9c-91c5-4146-9747-fc4b815121d3.png)
+![kiran img](https://user-images.githubusercontent.com/94174536/236786854-0747241a-77e5-4d4c-82fe-3098af0aff6c.png)
  
 ## Result:
 Thus the C# program to find the volume of a box using operator overloading is implemented successfully.
