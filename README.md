@@ -3,24 +3,24 @@
 ## Aim:
  To write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading. 
  
-##Algorithm: 
-###Step 1:
+## Algorithm: 
+### Step 1:
 Create a class operator
 
-###Step 2:
+### Step 2:
 Pass values through the constructor
 
-###Step 3:
+### Step 3:
 return the bool operator, (==) and (!=)
 
-###Step 4:
+### Step 4:
 create a object to store the return object
 
-###Step 5:
+### Step 5:
 print the program.
  
-##Program:
-~~
+## Program:
+``
 using System;
 class overload
 {
@@ -71,11 +71,11 @@ public static void Main()
   }
 
 }
-~~
+``
 
-##Output:
-"C:\Users\haris\OneDrive\Desktop\img.1.png"
+## Output:
+![img 1](https://user-images.githubusercontent.com/94174536/236783028-f614bb9c-91c5-4146-9747-fc4b815121d3.png)
  
-##Result:
+## Result:
 Thus the C# program to find the volume of a box using operator overloading is implemented successfully.
 
