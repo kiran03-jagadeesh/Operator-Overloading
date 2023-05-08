@@ -20,7 +20,7 @@ create a object to store the return object
 print the program.
  
 ## Program:
-
+~~~
 using System;
 class overload
 {
@@ -71,7 +71,7 @@ public static void Main()
   }
 
 }
-
+~~~
 
 ## Output:
 ![img 1](https://user-images.githubusercontent.com/94174536/236783028-f614bb9c-91c5-4146-9747-fc4b815121d3.png)
